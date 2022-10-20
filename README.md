@@ -19,6 +19,6 @@ Desenvolvido utilizando as seguintes tecnologias
    npm install
   
  # Iniciar o projeto
-   npm rum dev 
+   npm run dev 
    
  Agora só buscar seu Pokémon 🙂
