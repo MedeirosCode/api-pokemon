@@ -7,7 +7,7 @@ Desenvolvido utilizando as seguintes tecnologias
 - [EXPRESS](https://www.npmjs.com/package/express)
 - [AXIOS](https://axios-http.com/ptbr/docs/intro)
 
-# COMO BAIXAR O PROJETO
+# Como iniciar o projeto...
 
 # Clonar o repositório
  git clone https://github.com/MedeirosCode/api-pokemon
