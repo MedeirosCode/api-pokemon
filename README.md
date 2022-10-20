@@ -21,4 +21,4 @@ Desenvolvido utilizando as seguintes tecnologias
  # Iniciar o projeto
    npm rum dev 
    
-  # PRONTO SÓ BUSCAR SEU POKEMON POR ID 🙂
+ PRONTO SÓ BUSCAR SEU POKEMON POR ID 🙂
