@@ -22,4 +22,4 @@ Desenvolvido utilizando as seguintes tecnologias
    npm run dev 
    
  Agora só buscar seu Pokémon 🙂
- - [LINK](https://localhost:3000/pokemon/2)
+ - [LINK] localhost:3000/pokemon/2 (http://localhost:3000/pokemon/2)
