@@ -19,4 +19,6 @@ Desenvolvido utilizando as seguintes tecnologias
    npm install
   
  # Iniciar o projeto
-   node index.js
+   npm rum dev 
+   
+  # PRONTO SÓ BUSCAR SEU POKEMON POR ID 🙂
